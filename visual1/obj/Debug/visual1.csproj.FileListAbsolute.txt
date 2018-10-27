@@ -1,0 +1,82 @@
+C:\Documents and Settings\Fatma\Local Settings\Application Data\Temporary Projects\visual1\bin\Debug\visual1.exe
+C:\Documents and Settings\Fatma\Local Settings\Application Data\Temporary Projects\visual1\bin\Debug\visual1.pdb
+C:\Documents and Settings\Fatma\Local Settings\Application Data\Temporary Projects\visual1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Fatma\Local Settings\Application Data\Temporary Projects\visual1\obj\Debug\visual1.Form1.resources
+C:\Documents and Settings\Fatma\Local Settings\Application Data\Temporary Projects\visual1\obj\Debug\visual1.Properties.Resources.resources
+C:\Documents and Settings\Fatma\Local Settings\Application Data\Temporary Projects\visual1\obj\Debug\visual1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Fatma\Local Settings\Application Data\Temporary Projects\visual1\obj\Debug\visual1.exe
+C:\Documents and Settings\Fatma\Local Settings\Application Data\Temporary Projects\visual1\obj\Debug\visual1.pdb
+C:\Documents and Settings\Fatma\Local Settings\Application Data\Temporary Projects\visual1\obj\Debug\visual1.loading.resources
+C:\Documents and Settings\Fatma\My Documents\Visual Studio 2008\Projects\visual1\visual1\obj\Debug\visual1.exe
+C:\Documents and Settings\Fatma\My Documents\Visual Studio 2008\Projects\visual1\visual1\obj\Debug\visual1.pdb
+C:\Documents and Settings\Fatma\My Documents\Visual Studio 2008\Projects\visual1\visual1\bin\Debug\visual1.exe
+C:\Documents and Settings\Fatma\My Documents\Visual Studio 2008\Projects\visual1\visual1\bin\Debug\visual1.pdb
+C:\Documents and Settings\Fatma\My Documents\Visual Studio 2008\Projects\visual1\visual1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Fatma\My Documents\Visual Studio 2008\Projects\visual1\visual1\obj\Debug\visual1.loading.resources
+C:\Documents and Settings\Fatma\My Documents\Visual Studio 2008\Projects\visual1\visual1\obj\Debug\visual1.Properties.Resources.resources
+C:\Documents and Settings\Fatma\My Documents\Visual Studio 2008\Projects\visual1\visual1\obj\Debug\visual1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Fatma\My Documents\Visual Studio 2008\Projects\visual1\visual1\obj\Debug\visual1.MainForm.resources
+C:\Documents and Settings\Fatma\My Documents\Visual Studio 2008\Projects\visual1\visual1\obj\Debug\visual1.txtbf.resources
+C:\Documents and Settings\Fatma\My Documents\Visual Studio 2008\Projects\visual1\visual1\obj\Debug\visual1.filename.resources
+F:\4th sem\ple\visual1\visual1\obj\Debug\visual1.exe
+F:\4th sem\ple\visual1\visual1\obj\Debug\visual1.pdb
+F:\4th sem\ple\visual1\visual1\bin\Debug\visual1.exe
+F:\4th sem\ple\visual1\visual1\bin\Debug\visual1.pdb
+F:\4th sem\ple\visual1\visual1\obj\Debug\ResolveAssemblyReference.cache
+F:\4th sem\ple\visual1\visual1\obj\Debug\visual1.filename.resources
+F:\4th sem\ple\visual1\visual1\obj\Debug\visual1.MainForm.resources
+F:\4th sem\ple\visual1\visual1\obj\Debug\visual1.loading.resources
+F:\4th sem\ple\visual1\visual1\obj\Debug\visual1.Properties.Resources.resources
+F:\4th sem\ple\visual1\visual1\obj\Debug\visual1.txtbf.resources
+F:\4th sem\ple\visual1\visual1\obj\Debug\visual1.csproj.GenerateResource.Cache
+F:\4th sem\ple\visual1\visual1\obj\Debug\visual1.About.resources
+F:\AMNA UNI\4th sem\ple\amna fatma 29 ce a\visual1\bin\Debug\visual1.exe
+F:\AMNA UNI\4th sem\ple\amna fatma 29 ce a\visual1\bin\Debug\visual1.pdb
+F:\AMNA UNI\4th sem\ple\amna fatma 29 ce a\visual1\obj\Debug\ResolveAssemblyReference.cache
+F:\AMNA UNI\4th sem\ple\amna fatma 29 ce a\visual1\obj\Debug\visual1.About.resources
+F:\AMNA UNI\4th sem\ple\amna fatma 29 ce a\visual1\obj\Debug\visual1.filename.resources
+F:\AMNA UNI\4th sem\ple\amna fatma 29 ce a\visual1\obj\Debug\visual1.MainForm.resources
+F:\AMNA UNI\4th sem\ple\amna fatma 29 ce a\visual1\obj\Debug\visual1.loading.resources
+F:\AMNA UNI\4th sem\ple\amna fatma 29 ce a\visual1\obj\Debug\visual1.Properties.Resources.resources
+F:\AMNA UNI\4th sem\ple\amna fatma 29 ce a\visual1\obj\Debug\visual1.txtbf.resources
+F:\AMNA UNI\4th sem\ple\amna fatma 29 ce a\visual1\obj\Debug\visual1.csproj.GenerateResource.Cache
+F:\AMNA UNI\4th sem\ple\amna fatma 29 ce a\visual1\obj\Debug\visual1.exe
+F:\AMNA UNI\4th sem\ple\amna fatma 29 ce a\visual1\obj\Debug\visual1.pdb
+F:\AMNA UNI\4th sem\ple\Tanzeel Compiler\visual1\obj\Debug\visual1.exe
+F:\AMNA UNI\4th sem\ple\Tanzeel Compiler\visual1\obj\Debug\visual1.pdb
+F:\AMNA UNI\4th sem\ple\Tanzeel Compiler\visual1\bin\Debug\visual1.exe
+F:\AMNA UNI\4th sem\ple\Tanzeel Compiler\visual1\bin\Debug\visual1.pdb
+F:\AMNA UNI\4th sem\ple\Tanzeel Compiler\visual1\obj\Debug\ResolveAssemblyReference.cache
+F:\AMNA UNI\4th sem\ple\Tanzeel Compiler\visual1\obj\Debug\visual1.About.resources
+F:\AMNA UNI\4th sem\ple\Tanzeel Compiler\visual1\obj\Debug\visual1.filename.resources
+F:\AMNA UNI\4th sem\ple\Tanzeel Compiler\visual1\obj\Debug\visual1.MainForm.resources
+F:\AMNA UNI\4th sem\ple\Tanzeel Compiler\visual1\obj\Debug\visual1.loading.resources
+F:\AMNA UNI\4th sem\ple\Tanzeel Compiler\visual1\obj\Debug\visual1.Properties.Resources.resources
+F:\AMNA UNI\4th sem\ple\Tanzeel Compiler\visual1\obj\Debug\visual1.txtbf.resources
+F:\AMNA UNI\4th sem\ple\Tanzeel Compiler\visual1\obj\Debug\visual1.csproj.GenerateResource.Cache
+H:\NUST\Amna university backup\Amna Uni\4th sem\ple project\visual1\obj\Debug\visual1.exe
+H:\NUST\Amna university backup\Amna Uni\4th sem\ple project\visual1\obj\Debug\visual1.pdb
+H:\NUST\Amna university backup\Amna Uni\4th sem\ple project - Copy\visual1\obj\Debug\visual1.exe
+H:\NUST\Amna university backup\Amna Uni\4th sem\ple project - Copy\visual1\obj\Debug\visual1.pdb
+H:\NUST\Amna university backup\Amna Uni\4th sem\ple project - Copy\visual1\bin\Debug\visual1.exe
+H:\NUST\Amna university backup\Amna Uni\4th sem\ple project - Copy\visual1\bin\Debug\visual1.pdb
+H:\NUST\Amna university backup\Amna Uni\4th sem\ple project - Copy\visual1\obj\Debug\ResolveAssemblyReference.cache
+H:\NUST\Amna university backup\Amna Uni\4th sem\ple project - Copy\visual1\obj\Debug\visual1.About.resources
+H:\NUST\Amna university backup\Amna Uni\4th sem\ple project - Copy\visual1\obj\Debug\visual1.filename.resources
+H:\NUST\Amna university backup\Amna Uni\4th sem\ple project - Copy\visual1\obj\Debug\visual1.MainForm.resources
+H:\NUST\Amna university backup\Amna Uni\4th sem\ple project - Copy\visual1\obj\Debug\visual1.loading.resources
+H:\NUST\Amna university backup\Amna Uni\4th sem\ple project - Copy\visual1\obj\Debug\visual1.Properties.Resources.resources
+H:\NUST\Amna university backup\Amna Uni\4th sem\ple project - Copy\visual1\obj\Debug\visual1.txtbf.resources
+H:\NUST\Amna university backup\Amna Uni\4th sem\ple project - Copy\visual1\obj\Debug\visual1.csproj.GenerateResource.Cache
+H:\NUST\Amna university backup\Amna Uni\4th sem\Compiler C#\visual1\obj\Debug\visual1.exe
+H:\NUST\Amna university backup\Amna Uni\4th sem\Compiler C#\visual1\obj\Debug\visual1.pdb
+H:\NUST\Amna university backup\Amna Uni\4th sem\Compiler C#\visual1\bin\Debug\visual1.exe
+H:\NUST\Amna university backup\Amna Uni\4th sem\Compiler C#\visual1\bin\Debug\visual1.pdb
+H:\NUST\Amna university backup\Amna Uni\4th sem\Compiler C#\visual1\obj\Debug\ResolveAssemblyReference.cache
+H:\NUST\Amna university backup\Amna Uni\4th sem\Compiler C#\visual1\obj\Debug\visual1.About.resources
+H:\NUST\Amna university backup\Amna Uni\4th sem\Compiler C#\visual1\obj\Debug\visual1.filename.resources
+H:\NUST\Amna university backup\Amna Uni\4th sem\Compiler C#\visual1\obj\Debug\visual1.MainForm.resources
+H:\NUST\Amna university backup\Amna Uni\4th sem\Compiler C#\visual1\obj\Debug\visual1.loading.resources
+H:\NUST\Amna university backup\Amna Uni\4th sem\Compiler C#\visual1\obj\Debug\visual1.Properties.Resources.resources
+H:\NUST\Amna university backup\Amna Uni\4th sem\Compiler C#\visual1\obj\Debug\visual1.txtbf.resources
+H:\NUST\Amna university backup\Amna Uni\4th sem\Compiler C#\visual1\obj\Debug\visual1.csproj.GenerateResource.Cache
